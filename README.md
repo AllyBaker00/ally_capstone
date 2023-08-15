@@ -14,11 +14,13 @@ Other data was obtained from Census.gov and webscraped from Wikipedia.
 
 <h2>Data Sources</h2>
 
-Primary Data Set: 1950-2022_all_tornadoes.csv: [linktext](https://www.spc.noaa.gov/wcm/)
+Primary Data Set: 1950-2022_all_tornadoes.csv: [Storm Prediction Center Maps, Graphics, and Data
+Page](https://www.spc.noaa.gov/wcm/)
 
-State square mileage scrape: [linktext](https://simple.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area)
+State square mileage scrape: [List of U.S. states and territories by area - Wikipedia](https://simple.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area)
 
-State forestry percentage 2016 scrape: [linktext](https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States)
+State forestry percentage 2016 scrape: [Forest cover by state and territory in the United States -
+Wikipedia](https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States)
 
-Data of New Manufactured Homes: Annual Totals of Shipments to States 1994-2023 [linktext](https://www.census.gov/data/tables/time-series/econ/mhs/latest-data.html)
+Data of New Manufactured Homes: Annual Totals of Shipments to States 1994-2023 [MHS Latest Data](https://www.census.gov/data/tables/time-series/econ/mhs/latest-data.html)
 
