@@ -1595,7 +1595,7 @@
       <connection class='federated' tableau-ri='true'>
         <named-connections>
           <named-connection caption='per_sq_mile' name='textscan.1prp4bj1u7vq3k13arfo01935zld'>
-            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/allys/Documents/NSS/capstone/ally_capstone/data/per_sq_mile.csv' dataRefreshTime='' directory='C:/Users/allys/Documents/NSS/capstone/ally_capstone/data' filename='C:/Users/allys/AppData/Local/Temp/TableauTemp/0r6p2pf16o8v5k1awc0ba11blpvn/per_sq_mile.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
+            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/allys/Documents/NSS/capstone/ally_capstone/data/per_sq_mile.csv' dataRefreshTime='' directory='C:/Users/allys/Documents/NSS/capstone/ally_capstone/data' filename='C:/Users/allys/AppData/Local/Temp/TableauTemp/1yo1gbp03fw79v1eyspu504laygh/per_sq_mile.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
           </named-connection>
           <named-connection caption='primary_data' name='textscan.0pel9wp1x6zizq1aszngz1mcuowk'>
             <connection class='textscan' directory='C:/Users/allys/Documents/NSS/capstone/ally_capstone/data' filename='primary_data.csv' password='' server='' />
@@ -5098,8 +5098,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='36' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='35' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='37' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='12250' id='3' type-v2='text' w='75800' x='10900' y='6250'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontname='Tableau Bold' fontsize='18'>Contributing Factors?</run>
@@ -5184,8 +5184,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='45' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='44' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='47' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='46' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='64875' id='21' type-v2='text' w='89000' x='6700' y='9375'>
                   <formatted-text>
                     <run bold='true' fontname='Tableau Bold' fontsize='18'>Final Thoughts</run>
@@ -5261,8 +5261,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='36' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='35' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='37' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='8000' id='28' type-v2='text' w='24400' x='47900' y='15500'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontsize='10'>Total fatalities since 1994</run>
@@ -5353,8 +5353,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='120' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='119' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='122' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='121' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='56000' id='74' is-fixed='true' name='intro map' w='85800' x='4100' y='7625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -5413,8 +5413,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='40' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='39' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='41' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='76875' id='6' type-v2='text' w='77400' x='7000' y='2625'>
                   <formatted-text>
                     <run fontalignment='1' fontname='Tableau Bold' fontsize='18'>Overview</run>
@@ -5475,8 +5475,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='44' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='43' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='46' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='45' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='35875' id='3' type-v2='text' w='90400' x='5100' y='7750'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='18'>Tornado Related Fatalities in the United States</run>
@@ -5526,8 +5526,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='81' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='80' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='83' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='82' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='39750' id='3' is-fixed='true' name='season' w='70500' x='13700' y='1625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -5579,8 +5579,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='69' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='68' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='71' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='70' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='37375' id='3' is-fixed='true' name='time_fatality' w='63700' x='20200' y='19625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
