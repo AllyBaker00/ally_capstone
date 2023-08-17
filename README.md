@@ -1,6 +1,6 @@
 
 <h1>Tableau Dashboard</h1>
-Link: (https://public.tableau.com/shared/MGYPD6CD5?:display_count=n&:origin=viz_share_link)
+Link: (https://public.tableau.com/shared/XTW4QM97Z?:display_count=n&:origin=viz_share_link)
 
 <h1>Tornado Related Fatalities in the United States</h1>
 
