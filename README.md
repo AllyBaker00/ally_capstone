@@ -1,8 +1,7 @@
+<h1>Tornado Related Fatalities in the United States</h1>
 
 <h1>Tableau Dashboard</h1>
 Link: (https://public.tableau.com/shared/XTW4QM97Z?:display_count=n&:origin=viz_share_link)
-
-<h1>Tornado Related Fatalities in the United States</h1>
 
 <h2>Introduction</h2>
 This project is an exploratory analysis of where tornadoes are the deadliest in the United States. In my initial research I was surprised to learn that the states with the most tornadoes are not necessarily the states with the highest fatality rates. The states that have the most tornadoes fall geographically into what is commonly known as Tornado Alley, or the Great Plains region, but the states with the most tornado related fatalities are geographically in the Southern Untied States. 
