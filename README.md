@@ -4,6 +4,8 @@
 Link: (https://public.tableau.com/shared/XTW4QM97Z?:display_count=n&:origin=viz_share_link)
 
 <h2>Introduction</h2>
+I completed this project as my final capstone for the Data Analytics Certification through Nashville Software School.  
+
 This project is an exploratory analysis of where tornadoes are the deadliest in the United States. In my initial research I was surprised to learn that the states with the most tornadoes are not necessarily the states with the highest fatality rates. The states that have the most tornadoes fall geographically into what is commonly known as Tornado Alley, or the Great Plains region, but the states with the most tornado related fatalities are geographically in the Southern Untied States. 
 As a lifelong Southerner who has seen tornado destruction up close, I wanted to know what factors contribute to how deadly the tornadoes are in my region. In this project I analyze those possible contributors. 
 
